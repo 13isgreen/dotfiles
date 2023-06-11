@@ -1,0 +1,15 @@
+2023/05/21-13:27:53.725 1111 Reusing MANIFEST /home/thinkpad13/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/05/21-13:27:53.726 1111 Recovering log #63
+2023/05/21-13:27:53.727 1111 Reusing old log /home/thinkpad13/.config/discord/Local Storage/leveldb/000063.log 
+2023/05/21-13:54:36.220 10c4 Level-0 table #67: started
+2023/05/21-13:54:36.282 10c4 Level-0 table #67: 1640012 bytes OK
+2023/05/21-13:54:36.290 10c4 Delete type=0 #63
+2023/05/21-13:54:36.291 10c4 Compacting 4@0 + 1@1 files
+2023/05/21-13:54:36.355 10c4 Generated table #68@0: 53 keys, 1644292 bytes
+2023/05/21-13:54:36.355 10c4 Compacted 4@0 + 1@1 files => 1644292 bytes
+2023/05/21-13:54:36.360 10c4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/05/21-13:54:36.361 10c4 Delete type=2 #57
+2023/05/21-13:54:36.361 10c4 Delete type=2 #59
+2023/05/21-13:54:36.361 10c4 Delete type=2 #61
+2023/05/21-13:54:36.361 10c4 Delete type=2 #64
+2023/05/21-13:54:36.361 10c4 Delete type=2 #67

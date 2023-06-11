@@ -1,0 +1,6 @@
+2023/06/07-19:34:46.540 26db Reusing MANIFEST /home/thinkpad13/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/06/07-19:34:46.545 26db Recovering log #66
+2023/06/07-19:34:46.545 26db Reusing old log /home/thinkpad13/.config/discord/Local Storage/leveldb/000066.log 
+2023/06/07-19:39:12.200 27bb Level-0 table #71: started
+2023/06/07-19:39:12.235 27bb Level-0 table #71: 1673685 bytes OK
+2023/06/07-19:39:12.240 27bb Delete type=0 #66
